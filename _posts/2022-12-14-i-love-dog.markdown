@@ -9,8 +9,6 @@ tags: [dog, ilovedog]
 permalink: 'post/ilovedog/'
 ---
 
-- 고양이보다 강아지가 더 좋습니다.
-
 # 제목1
 ## 제목2
 ### 제목3
