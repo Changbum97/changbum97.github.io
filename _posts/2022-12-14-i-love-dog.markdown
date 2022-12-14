@@ -1,0 +1,33 @@
+---
+layout: post
+title: I love dog
+date: 2022-12-14 13:50:20 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: dog.jpg # Add image post (optional)
+fig-caption: 강아지 사진# Add figcaption (optional)
+tags: [dog, ilovedog]
+permalink: 'post/ilovedog/'
+---
+
+- 고양이보다 강아지가 더 좋습니다.
+
+# 제목1
+## 제목2
+### 제목3
+
+>고양이보다 강아지가 짱
+
+* \*
+* \*
+- \-
+- \-
+* \*
+
+123123
+hello
+
+안녕안녕
+
+```java
+System.out.println("안녕하세요");
+```
